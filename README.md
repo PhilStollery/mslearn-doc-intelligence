@@ -1,2 +1,3 @@
-# doc-intelligence
-Lab files for document intelligence labs
+# Document Intelligence
+
+This repo contains lab files for document intelligence labs on Microsoft Learn.
